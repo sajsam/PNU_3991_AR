@@ -14,7 +14,7 @@
   </tr>
   <tr> 
     <th></th>
-    <th ><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines#TOC" >مدارهای الکتریکی و الکترونیکی 02-1322092</a></th>
+    <th ><a href="https://github.com/sajsam/PNU_3991_AR.git/tree/master/_BSc/Theory-of-Languages-and-Machines#TOC" >مدارهای الکتریکی و الکترونیکی 02-1322092</a></th>
     <th ><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines#TOC" >ساختمان داده های والگوریتم ها 01-1322091</a></th>
     <th></th>
     <th></th>
