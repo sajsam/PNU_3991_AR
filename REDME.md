@@ -6,7 +6,7 @@
 
 # ساجده ثمری
 - [PNU_3991_AR](https://github.com/sajsam/PNU_3991_AR)
-- [Resume](https://github.com/sajsam/SamariRezome.git) 
+- [Resume](https://github.com/sajsam/SamariRezome/blob/main/resume-fa.md) 
 - [SOP](https://github.com/sajsam/Cover-letter.git)
 - [Patchwork](https://github.com/sajsam/patchwork.git)
 - [GitHub](https://github.com/sajsam)
