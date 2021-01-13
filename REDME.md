@@ -33,15 +33,15 @@
     <th>یک شنبه</th>
   </tr>
    <tr>
-     <th ></th>
-     <th ></th>
-     <th ><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines#TOC" >روش پژوهش و ارائه 02-1322010</a></th>
-     <th ></th>
-     <th ></th>
-     <th ></th>
-     <th ></th>
-      <th ></th>   
-   <th>دوشنبه</th>
+     <th></th>
+     <th></th>
+     <th><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines#TOC" >روش پژوهش و ارائه 02-1322010</a></th>
+     <th></th>
+     <th></th>
+     <th></th>
+     <th></th>
+      <th></th>   
+    <th>دوشنبه</th>
   </tr>
    <tr>
     <th ></th>
@@ -52,7 +52,7 @@
     <th ></th>
     <th ></th>
      <th ></th>
-   <th>سه شنبه</th>
+    <th>سه شنبه</th>
   </tr>
    <tr>
     <th ><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms#TOC">1115066_03 آمار و احتمال مهندسی</a></th>
