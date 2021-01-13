@@ -15,7 +15,7 @@
   <tr> 
     <th></th>
     <th ><a href="https://github.com/sajsam/PNU_3991_AR.git" >مدارهای الکتریکی و الکترونیکی 02-1322092</a></th>
-    <th ><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines#TOC" >ساختمان داده های والگوریتم ها 01-1322091</a></th>
+    <th ><a href="https://github.com/sajsam/PNU_3991_AR.git" >ساختمان داده های والگوریتم ها 01-1322091</a></th>
     <th></th>
     <th></th>
     <th></th>
@@ -23,11 +23,11 @@
     <th>شنبه</th>
   </tr>
    <tr>
-    <th ><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines#TOC" >مهندسی نرم افزار1 02-1115146</a></th>
+    <th ><a href="https://github.com/sajsam/PNU_3991_AR.git" >مهندسی نرم افزار1 02-1115146</a></th>
     <th ></th>
     <th ></th>
     <th ></th>
-    <th ><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines#TOC" >مدارهای منطقی 03-1115139</a></th>
+    <th ><a href="https://github.com/sajsam/PNU_3991_AR.git" >مدارهای منطقی 03-1115139</a></th>
     <th></th>
      <th ></th>
     <th>یک شنبه</th>
@@ -35,7 +35,7 @@
    <tr>
      <th ></th>
      <th ></th>
-     <th ><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines#TOC" >روش پژوهش و ارائه 02-1322010</a></th>
+     <th ><a href="https://github.com/sajsam/PNU_3991_AR.git" >روش پژوهش و ارائه 02-1322010</a></th>
      <th ></th>
      <th ></th>
      <th ></th>
@@ -53,7 +53,7 @@
     <th>سه شنبه</th>
   </tr>
    <tr>
-    <th ><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms#TOC">1115066_03 آمار و احتمال مهندسی</a></th>
+    <th ><a  href="https://github.com/sajsam/PNU_3991_AR.git">1115066_03 آمار و احتمال مهندسی</a></th>
     <th ></th>
     <th ></th>
     <th ></th>
