@@ -6,7 +6,7 @@
 
 # ساجده ثمری
 - [PNU_3991_AR](https://github.com/sajsam/PNU_3991_AR)
-- [Resume](https://github.com/sajsam/SamariRezome/blob/main/resume-fa.md) 
+- [Resume](https://github.com/sajsam/SamariRezome.git) 
 - [SOP](https://github.com/sajsam/Cover-letter.git)
 - [Patchwork](https://github.com/sajsam/patchwork.git)
 - [GitHub](https://github.com/sajsam)
@@ -35,7 +35,7 @@
   </tr>
   <tr> 
     <th></th>
-    <th ><a href="https://github.com/sajsam/PNU_3991_AR.git" >مدارهای الکتریکی و الکترونیکی 02-1322092</a></th>
+    <th ><a href="https://github.com/sajsam/PNU_3991_AR.git" >مدارهای الکتریکی والکترونیکی 02-1322092</a></th>
     <th ><a href="https://github.com/sajsam/PNU_3991_AR.git" >ساختمان داده های والگوریتم ها 01-1322091</a></th>
     <th></th>
     <th></th>
