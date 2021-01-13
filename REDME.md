@@ -49,7 +49,6 @@
     <th ></th>
     <th ></th>
     <th ></th>
-    <th ></th>
      <th ></th>
     <th>سه شنبه</th>
   </tr>
