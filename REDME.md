@@ -1,3 +1,10 @@
+> ارزیابی ها
+
+##  بخش عمومی
+- [ارزیابی رزومه و انگیزه نامه](https://github.com/sajsam/PNU_3991_AR/blob/main/Genaral/SS_CV_CheckList_AR_3991-%DB%B1.pdf)
+- [خلاصه ارزیابی بخش عمومی](https://github.com/sajsam/PNU_3991_AR/blob/main/Genaral/SS_GeneralSection_CheckList_AR_3991.pdf)
+- [روش پژوهش و ارائه](https://github.com/sajsam/PNU_3991_AR/blob/main/Genaral/SS_ResearchAndPresentationMethods_CheckList_AR_3991-%DB%B2.pdf)
+
 <a name="Course-Table"></a>
 ## روز و ساعت ارائه دروس
 <div dir="ltr">
