@@ -18,6 +18,12 @@
 - [ارزیابی رزومه و انگیزه نامه](https://github.com/sajsam/PNU_3991_AR/blob/main/Genaral/SS_CV_CheckList_AR_3991-%DB%B1.pdf)
 - [خلاصه ارزیابی بخش عمومی](https://github.com/sajsam/PNU_3991_AR/blob/main/Genaral/SS_GeneralSection_CheckList_AR_3991.pdf)
 - [روش پژوهش و ارائه](https://github.com/sajsam/PNU_3991_AR/blob/main/Genaral/SS_ResearchAndPresentationMethods_CheckList_AR_3991-%DB%B2.pdf)
+--------------
+## گروه
+1. G-R01
+    1. [_RPM02-12_ساجده ثمری**](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_02/12_%D8%B3%D8%A7%D8%AC%D8%AF%D9%87%20%D8%AB%D9%85%D8%B1%D9%8A)
+    1. [_RPM01-22_عاطفه رحمانی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_01/22_%D8%B9%D8%A7%D8%B7%D9%81%D9%87%20%D8%B1%D8%AD%D9%85%D8%A7%D9%86%D9%8A) 
+    1. [_RPM02-40_فاطمه علومی فلاح](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_02/40_%D9%81%D8%A7%D8%B7%D9%85%D9%87%20%D8%B9%D9%84%D9%88%D9%85%D9%8A%20%D9%81%D9%84%D8%A7%D8%AD) 
 
 <a name="Course-Table"></a>
 ## روز و ساعت ارائه دروس
